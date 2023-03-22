@@ -1,4 +1,4 @@
-# Smartex Test web challenge
+# QA Test WEB challenge
 
 ## PROJECT (Website)
 Create an automation project using the website [UltimateQA][site] register and also contains the following scenarios (in BDD):
