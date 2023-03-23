@@ -1,4 +1,4 @@
-package stepDefinitions.register;
+package stepsDefinitions;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
@@ -7,12 +7,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 import java.time.Duration;
-import java.util.ResourceBundle;
 
 public class Hooks extends BaseClass{
     @Before
     public void setup() {
-        rb = ResourceBundle.getBundle("config");
         logger = LogManager.getLogger(this.getClass());
 
         ChromeOptions options = new ChromeOptions();
@@ -24,7 +22,7 @@ public class Hooks extends BaseClass{
     }
 
     @After
-    public void teadDown() {
+    public void tearDown() {
         driver.quit();
     }
 }

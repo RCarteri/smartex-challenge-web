@@ -1,4 +1,4 @@
-package stepDefinitions.register;
+package stepsDefinitions;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.Logger;
@@ -13,7 +13,7 @@ import java.util.ResourceBundle;
 
 public class BaseClass {
     // to read config.properties
-    public static ResourceBundle rb;
+    public static ResourceBundle rb = ResourceBundle.getBundle("config");
 
     // for Logging
     public Logger logger;
