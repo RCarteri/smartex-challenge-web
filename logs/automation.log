@@ -1,0 +1,8 @@
+07:56:46.497 [main] INFO  stepsDefinitions.RegisterStep - Accessing login page
+07:56:48.637 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
+07:56:57.768 [main] INFO  stepsDefinitions.RegisterStep - Accessing login page
+07:57:00.215 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
+08:04:11.848 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+08:04:14.102 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
+08:04:49.503 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+08:04:51.650 [main] INFO  stepsDefinitions.LoginStep - Filling out the form

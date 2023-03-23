@@ -16,10 +16,6 @@ public class RegisterPage extends RegisterMap {
         super(driver);
     }
 
-    public void accessLoginPage() {
-        clickSignIn();
-    }
-
     public void accessRegistrationPage() {
         clickRegistration();
     }

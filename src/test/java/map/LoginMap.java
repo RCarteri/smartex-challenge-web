@@ -28,6 +28,6 @@ public class LoginMap extends BasePage {
     }
 
     public void clickBtnSignIn() {
-        btnSignIn.click();
+        clickJS(btnSignIn);
     }
 }

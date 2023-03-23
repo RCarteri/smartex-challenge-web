@@ -12,9 +12,6 @@ public class RegisterMap extends BasePage {
         super(driver);
     }
 
-    @FindBy(linkText = "Sign In")
-    WebElement linkSignIn;
-
     @FindBy(linkText = "Create a new account")
     WebElement linkCreateAccount;
 
@@ -38,10 +35,6 @@ public class RegisterMap extends BasePage {
 
     @FindBy(css = ".form-error__list-item")
     List<WebElement> errorMessage;
-
-    protected void clickSignIn() {
-        linkSignIn.click();
-    }
 
     protected void clickRegistration() {
         clickJS(linkCreateAccount);

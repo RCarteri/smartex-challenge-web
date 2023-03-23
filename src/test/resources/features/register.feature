@@ -13,8 +13,8 @@ Feature: Register a user
             | firstName | lastName | email                | password   |
             | Paulo     | Silva    | paulosilva@gmail.com | paulosilva |
 
-    @register-Ex001
-    Scenario Outline: Create a new user exception
+    @register-CTE001
+    Scenario Outline: CTE001 - Create a new user exception
         When I fill in the form to create a new user with the data first name "<firstName>", last name "<lastName>", email "<email>" and password "<password>"
         Then the error message "<errorMessage>" should appear in the page
         Examples:

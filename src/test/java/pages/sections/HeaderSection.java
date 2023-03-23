@@ -7,7 +7,12 @@ public class HeaderSection extends HeaderMap {
     public HeaderSection(WebDriver driver) {
         super(driver);
     }
+
     public boolean isBtnMyDashboardDisplayed(){
         return getBtnMyDashboard().isDisplayed();
+    }
+
+    public void accessLoginPage() {
+        clickSignIn();
     }
 }

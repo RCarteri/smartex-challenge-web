@@ -13,6 +13,13 @@ public class HeaderMap extends BasePage {
     @FindBy(linkText = "My Dashboard")
     WebElement btnMyDashboard;
 
+    @FindBy(linkText = "Sign In")
+    WebElement linkSignIn;
+
+    protected void clickSignIn() {
+        linkSignIn.click();
+    }
+
     public WebElement getBtnMyDashboard() {
         return btnMyDashboard;
     }
