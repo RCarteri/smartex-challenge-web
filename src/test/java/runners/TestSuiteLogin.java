@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features= "classpath:features",
         glue="stepsDefinitions",
-        plugin= {"pretty", "html:reports/myreport.html", "json:reports/myreport.json"},
+        plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
         tags = "@login"
 )
 
