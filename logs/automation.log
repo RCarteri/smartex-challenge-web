@@ -26,3 +26,52 @@
 07:32:00.056 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
 07:32:13.312 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
 07:32:15.827 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
+07:34:00.820 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:34:02.775 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
+07:34:19.035 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:34:21.369 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
+07:34:38.459 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:34:40.661 [main] INFO  stepsDefinitions.RegisterStep - Accessing registration page
+07:34:41.808 [main] INFO  stepsDefinitions.RegisterStep - Filling out the form
+07:35:15.607 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:35:18.621 [main] INFO  stepsDefinitions.RegisterStep - Accessing registration page
+07:35:20.022 [main] INFO  stepsDefinitions.RegisterStep - Filling out the form
+07:35:30.731 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:35:33.227 [main] INFO  stepsDefinitions.RegisterStep - Accessing registration page
+07:35:34.825 [main] INFO  stepsDefinitions.RegisterStep - Filling out the form
+07:35:46.716 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:35:48.875 [main] INFO  stepsDefinitions.RegisterStep - Accessing registration page
+07:35:50.255 [main] INFO  stepsDefinitions.RegisterStep - Filling out the form
+07:38:39.938 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:38:42.150 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
+07:38:51.469 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:38:54.444 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
+07:44:30.098 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:44:33.045 [main] INFO  stepsDefinitions.RegisterStep - Accessing registration page
+07:44:34.791 [main] INFO  stepsDefinitions.RegisterStep - Filling out the form
+07:44:45.956 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:44:49.298 [main] INFO  stepsDefinitions.RegisterStep - Accessing registration page
+07:44:50.446 [main] INFO  stepsDefinitions.RegisterStep - Filling out the form
+07:45:03.595 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:45:09.231 [main] INFO  stepsDefinitions.RegisterStep - Accessing registration page
+07:45:10.918 [main] INFO  stepsDefinitions.RegisterStep - Filling out the form
+07:46:12.569 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:46:14.910 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
+07:46:28.816 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:46:31.189 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
+07:46:50.199 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:46:55.223 [main] INFO  stepsDefinitions.RegisterStep - Accessing registration page
+07:46:56.823 [main] INFO  stepsDefinitions.RegisterStep - Filling out the form
+07:47:09.569 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:47:11.767 [main] INFO  stepsDefinitions.RegisterStep - Accessing registration page
+07:47:12.982 [main] INFO  stepsDefinitions.RegisterStep - Filling out the form
+07:47:21.125 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:47:23.070 [main] INFO  stepsDefinitions.RegisterStep - Accessing registration page
+07:47:24.351 [main] INFO  stepsDefinitions.RegisterStep - Filling out the form
+07:47:55.899 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+07:47:58.720 [main] INFO  stepsDefinitions.RegisterStep - Accessing registration page
+07:48:00.252 [main] INFO  stepsDefinitions.RegisterStep - Filling out the form
+08:00:41.466 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+08:00:43.413 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
+08:01:00.394 [main] INFO  stepsDefinitions.LoginStep - Accessing login page
+08:01:03.033 [main] INFO  stepsDefinitions.LoginStep - Filling out the form
