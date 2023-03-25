@@ -9,4 +9,19 @@ Create an automation project using the website [UltimateQA][site] register and a
   Desirable: Generate test report.
 
 
+## Environment
+- Java 17
+- Maven 3.9.0
+
+## Execution
+This code can be executed by [runner][runners], by [feature][features] and with maven by [pom.xml][pom]. Reports are generated after execution and are saved in the directory referring to the execution time.
+
+(At some point there may be a need for intervention due to reCAPTCHA on login)
+
+It was also implemented in jenkins using the git repository.
+![jenkins](jenkins.png)
+
 [site]: https://courses.ultimateqa.com/
+[runners]: src/test/java/runners
+[features]: src/test/resources/features
+[pom]: pom.xml
